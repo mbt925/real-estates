@@ -1,0 +1,12 @@
+<resources>
+    <string name="title">Real Estate</string>
+    <string name="retry">Try again</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="last_update">Last update: %s</string>
+
+    <string name="m2">%s m²</string>
+
+    <string name="error_no_internet">Not connected to internet</string>
+    <string name="error_unknown">Unexpected error: %s</string>
+</resources>
